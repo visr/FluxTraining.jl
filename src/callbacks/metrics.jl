@@ -3,8 +3,8 @@
 
 Callback that tracks metrics during training.
 
-`metrics` can be both [`AbstractMetric`](#)s or functions
-like `f(ŷs, ys)` which will be converted to [`Metric`](#)s.
+`metrics` can be both [`FluxTraining.AbstractMetric`](#)s or functions
+like `f(ŷs, ys)` which will be converted to [`FluxTraining.Metric`](#)s.
 
 A metric tracking `lossfn` is included by default.
 

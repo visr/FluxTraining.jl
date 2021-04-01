@@ -1,28 +1,18 @@
-[README](README.md)
-
-### Start here
-
+- [README](README.md)
 - [Getting started](docs/getting_started.md)
 - [User guide](docs/overview.md)
-- [Features](docs/features.md)
-
-
-### Library
-
-- [Training loop](docs/training/basics.md)
-- [Using callbacks](docs/callbacks/usage.md)
-- [Callback reference](docs/callbacks/reference.md)
-- [Custom callbacks](docs/callbacks/custom.md)
-- [Tips & tricks](docs/callbacks/tipstricks.md)
-
-### [Reference](docstrings.md)
-
-### Tutorials
-
-- [MNIST training](docs/tutorials/mnist.ipynb)
-- [Hyperparameter scheduling](docs/tutorials/hyperparameters.md)
-
-### Other
-
-- [Project status](docs/status.md)
-- [Ecosystem](docs/ecosystem.md)
+- *Library*
+    - [Features](docs/features.md)
+    - [Training loop](docs/training/basics.md)
+    - [Using callbacks](docs/callbacks/usage.md)
+    - [Callback reference](docs/callbacks/reference.md)
+    - [Custom callbacks](docs/callbacks/custom.md)
+    - [Tips & tricks](docs/callbacks/tipstricks.md)
+- *Reference*
+    - [Docstrings](REFERENCE)
+- *Tutorials*
+    - [MNIST training](docs/tutorials/mnist.ipynb)
+    - [Hyperparameter scheduling](docs/tutorials/hyperparameters.md)
+- *Other*
+    - [Project status](docs/status.md)
+    - [Ecosystem](docs/ecosystem.md)

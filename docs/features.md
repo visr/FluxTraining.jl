@@ -15,7 +15,7 @@ learner = Learner(model, data, opt, lossfn, cb)
 
 ## Metrics
 
-By default, `Learner` will track only the loss function. You can track other metric with the [`Metrics`](#) callback. See also [`Metric`](#), [`AbstractMetric`](#).
+By default, `Learner` will track only the loss function. You can track other metric with the [`Metrics`](#) callback. See also [`FluxTraining.Metric`](#), [`FluxTraining.AbstractMetric`](#).
 
 ## Hyperparameter scheduling
 
